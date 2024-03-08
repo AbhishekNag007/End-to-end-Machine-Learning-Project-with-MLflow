@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/Desktop/Py_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/87fe58549da348119c78646eb1f7dbc1/artifacts
+end_time: 1709824048702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87fe58549da348119c78646eb1f7dbc1
+run_name: selective-mule-541
+run_uuid: 87fe58549da348119c78646eb1f7dbc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709824042047
+status: 3
+tags: []
+user_id: abhis

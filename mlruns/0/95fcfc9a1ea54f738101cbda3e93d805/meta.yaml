@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/Desktop/Py_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/95fcfc9a1ea54f738101cbda3e93d805/artifacts
+end_time: 1709819571589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95fcfc9a1ea54f738101cbda3e93d805
+run_name: able-lynx-228
+run_uuid: 95fcfc9a1ea54f738101cbda3e93d805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709819567973
+status: 3
+tags: []
+user_id: abhis

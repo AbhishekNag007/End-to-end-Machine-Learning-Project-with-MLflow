@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/Desktop/Py_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/9dd4faf25bde46638b7e3c526a78fb78/artifacts
+end_time: 1709818381656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dd4faf25bde46638b7e3c526a78fb78
+run_name: efficient-cod-892
+run_uuid: 9dd4faf25bde46638b7e3c526a78fb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709818381567
+status: 4
+tags: []
+user_id: abhis

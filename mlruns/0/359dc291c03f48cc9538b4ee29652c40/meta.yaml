@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/Desktop/Py_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/359dc291c03f48cc9538b4ee29652c40/artifacts
+end_time: 1709818431940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 359dc291c03f48cc9538b4ee29652c40
+run_name: skillful-fox-284
+run_uuid: 359dc291c03f48cc9538b4ee29652c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709818431851
+status: 4
+tags: []
+user_id: abhis

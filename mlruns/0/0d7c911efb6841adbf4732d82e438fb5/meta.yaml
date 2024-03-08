@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/Desktop/Py_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/0d7c911efb6841adbf4732d82e438fb5/artifacts
+end_time: 1709818159536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7c911efb6841adbf4732d82e438fb5
+run_name: sedate-grouse-601
+run_uuid: 0d7c911efb6841adbf4732d82e438fb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709818159450
+status: 4
+tags: []
+user_id: abhis
